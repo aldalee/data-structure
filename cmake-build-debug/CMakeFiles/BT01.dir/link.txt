@@ -1,0 +1,3 @@
+"E:\programSoftware\CLion 2019.3.6\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\BT01.dir/objects.a
+E:\programSoftware\mingw64\bin\ar.exe cr CMakeFiles\BT01.dir/objects.a @CMakeFiles\BT01.dir\objects1.rsp
+E:\programSoftware\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\BT01.dir/objects.a -Wl,--no-whole-archive  -o BT01.exe -Wl,--out-implib,libBT01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BT01.dir\linklibs.rsp

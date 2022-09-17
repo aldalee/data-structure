@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DataStructure" targetName="Q02" />
+      <config projectName="DataStructure" targetName="S03" />
+      <config projectName="DataStructure" targetName="S02" />
+      <config projectName="DataStructure" targetName="S01" />
+      <config projectName="DataStructure" targetName="Q01" />
+      <config projectName="DataStructure" targetName="Sort" />
+      <config projectName="DataStructure" targetName="main" />
+      <config projectName="DataStructure" targetName="BT01" />
+      <config projectName="DataStructure" targetName="L02" />
+      <config projectName="DataStructure" targetName="L03" />
+      <config projectName="DataStructure" targetName="G01" />
+      <config projectName="DataStructure" targetName="Str03" />
+      <config projectName="DataStructure" targetName="Str02" />
+      <config projectName="DataStructure" targetName="Str01" />
+      <config projectName="DataStructure" targetName="L01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="190ada9d-ada9-4a4c-8b67-f4c3c8767131" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="DataStructure" />
+  </component>
+  <component name="ProjectId" id="1pt5isgzCqWlJjQXWicKJJSq6b9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Arithmetic/PAT" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Clion-workspace\408DS\DataStructure\LinearList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Sort">
+    <configuration name="BT01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="BT01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="BT01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="G01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="G01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="L01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="L01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="L02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="L02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="L03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="L03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Q01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Q01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Q02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Q02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="S01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="S01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="S02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="S02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="S03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="S03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Str01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Str01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Str01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Str02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Str02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Str02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Str03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="Str03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="Str03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructure" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructure" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.BT01" />
+      <item itemvalue="CMake Application.G01" />
+      <item itemvalue="CMake Application.L01" />
+      <item itemvalue="CMake Application.L02" />
+      <item itemvalue="CMake Application.L03" />
+      <item itemvalue="CMake Application.Q01" />
+      <item itemvalue="CMake Application.Q02" />
+      <item itemvalue="CMake Application.S01" />
+      <item itemvalue="CMake Application.S02" />
+      <item itemvalue="CMake Application.S03" />
+      <item itemvalue="CMake Application.Sort" />
+      <item itemvalue="CMake Application.Str01" />
+      <item itemvalue="CMake Application.Str02" />
+      <item itemvalue="CMake Application.Str03" />
+      <item itemvalue="CMake Application.main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190ada9d-ada9-4a4c-8b67-f4c3c8767131" name="Default Changelist" comment="" />
+      <created>1615989675912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615989675912</updated>
+      <workItem from="1615989678338" duration="39086000" />
+      <workItem from="1616567293784" duration="12188000" />
+      <workItem from="1616745880607" duration="1626000" />
+      <workItem from="1616819539988" duration="37394000" />
+      <workItem from="1616921069970" duration="1840000" />
+      <workItem from="1617415347768" duration="606000" />
+      <workItem from="1617889698656" duration="29564000" />
+      <workItem from="1618110855763" duration="28750000" />
+      <workItem from="1618205415147" duration="1254000" />
+      <workItem from="1618294406251" duration="40839000" />
+      <workItem from="1618657099167" duration="15042000" />
+      <workItem from="1619265978783" duration="212000" />
+      <workItem from="1619270909475" duration="16000" />
+      <workItem from="1621431137522" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2056" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616849097048">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1616849097048" />
+    <state x="2105" y="261" key="FileChooserDialogImpl" timestamp="1621431226347">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2105" y="261" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621431226347" />
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom" timestamp="1618817604561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1618817604561" />
+    <state width="1877" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618752972871" />
+    <state width="1338" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618413310582" />
+    <state width="1323" height="68" key="GridCell.Tab.0.center" timestamp="1618817604561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1618817604561" />
+    <state width="1877" height="105" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618752972871" />
+    <state width="1338" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618413310582" />
+    <state width="1323" height="68" key="GridCell.Tab.0.left" timestamp="1618817604561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1618817604561" />
+    <state width="1877" height="105" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618752972871" />
+    <state width="1338" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618413310582" />
+    <state width="1323" height="68" key="GridCell.Tab.0.right" timestamp="1618817604561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1618817604561" />
+    <state width="1877" height="105" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618752972871" />
+    <state width="1338" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618413310582" />
+    <state width="1877" height="85" key="GridCell.Tab.1.bottom" timestamp="1618498728401">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="85" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618498728401" />
+    <state width="1323" height="239" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616672712984" />
+    <state width="1877" height="85" key="GridCell.Tab.1.center" timestamp="1618498728401">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="85" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618498728401" />
+    <state width="1323" height="239" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616672712984" />
+    <state width="1877" height="85" key="GridCell.Tab.1.left" timestamp="1618498728401">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="85" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618498728401" />
+    <state width="1323" height="239" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616672712984" />
+    <state width="1877" height="85" key="GridCell.Tab.1.right" timestamp="1618498728401">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="85" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618498728401" />
+    <state width="1323" height="239" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616672712984" />
+    <state x="1883" y="17" key="SettingsEditor" timestamp="1619266191432">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1883" y="17" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1619266191432" />
+    <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616576826955" />
+    <state x="2046" y="157" key="refactoring.ChangeSignatureDialog" timestamp="1618135359665">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2046" y="157" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1618135359665" />
+    <state x="484" y="3" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1617936517896" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1616655108677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1616508783166" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1616655108677" />
+  </component>
+</project>

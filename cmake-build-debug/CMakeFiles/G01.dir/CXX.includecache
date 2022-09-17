@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion-workspace/408DS/DataStructure/Graph/G01_Graph.cpp
+iostream
+-
+memory.h
+F:/Clion-workspace/408DS/DataStructure/Graph/memory.h
+vector
+-
+

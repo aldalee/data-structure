@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion-workspace/408DS/DataStructure/Tree/BT01_BinaryTree.cpp
+iostream
+-
+cstring
+-
+tools.h
+F:/Clion-workspace/408DS/DataStructure/Tree/tools.h
+
+F:/Clion-workspace/408DS/DataStructure/Tree/tools.h
+sstream
+-
+iostream
+F:/Clion-workspace/408DS/DataStructure/Tree/iostream
+cstdlib
+-
+vector
+F:/Clion-workspace/408DS/DataStructure/Tree/vector
+cmath
+F:/Clion-workspace/408DS/DataStructure/Tree/cmath
+algorithm
+F:/Clion-workspace/408DS/DataStructure/Tree/algorithm
+map
+F:/Clion-workspace/408DS/DataStructure/Tree/map
+fstream
+F:/Clion-workspace/408DS/DataStructure/Tree/fstream
+queue
+F:/Clion-workspace/408DS/DataStructure/Tree/queue
+unordered_map
+F:/Clion-workspace/408DS/DataStructure/Tree/unordered_map
+unordered_set
+F:/Clion-workspace/408DS/DataStructure/Tree/unordered_set
+stack
+F:/Clion-workspace/408DS/DataStructure/Tree/stack
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Graph/G01_Graph.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Sort/Sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack/S01_SqStack.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/String/Str01_SqString.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Tree/BT01_BinaryTree.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

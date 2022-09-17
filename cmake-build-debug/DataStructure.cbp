@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str03">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str03"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str03/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str03/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L02">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L02"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L02/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L02/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str02">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str02"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str02/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str02/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L03">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L03"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="L03/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/L03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 L03/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S02">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S02"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S02/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S02/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Q01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Q01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q02">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Q02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q02"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q02/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Q02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q02/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S03">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S03"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S03/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/S03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 S03/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Str01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Str01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Str01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BT01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/BT01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 BT01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BT01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/BT01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 BT01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="G01">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/G01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 G01"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="G01/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/G01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 G01/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sort">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sort"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sort/fast">
+				<Option output="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/programSoftware/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sort/fast"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Clion-workspace/408DS/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/programSoftware/mingw64/bin/mingw32-make.exe -f &quot;F:/Clion-workspace/408DS/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Graph/G01_Graph.cpp">
+			<Option target="G01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/LinearList/L01_SequenceTable.cpp">
+			<Option target="L01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/LinearList/L02_SingleLinkedList.cpp">
+			<Option target="L02"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/LinearList/L03_DoubleLinkedList.cpp">
+			<Option target="L03"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Queue/Q01_SqQueue.cpp">
+			<Option target="Q01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Queue/Q02_LinkedQueue.cpp">
+			<Option target="Q02"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Sort/Sort.cpp">
+			<Option target="Sort"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Stack/S01_SqStack.cpp">
+			<Option target="S01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Stack/S02_LinkedStack.cpp">
+			<Option target="S02"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Stack/S03_SharedStack.cpp">
+			<Option target="S03"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/String/Str01_SqString.cpp">
+			<Option target="Str01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/String/Str02_PatternMatch.cpp">
+			<Option target="Str02"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/String/Str03_KMP.cpp">
+			<Option target="Str03"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/Tree/BT01_BinaryTree.cpp">
+			<Option target="BT01"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="F:/Clion-workspace/408DS/DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

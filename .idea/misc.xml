@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/Graph" />
+      <file path="$PROJECT_DIR$/LinearList" />
+      <file path="$PROJECT_DIR$/Queue" />
+      <file path="$PROJECT_DIR$/Sort" />
+      <file path="$PROJECT_DIR$/Stack" />
+      <file path="$PROJECT_DIR$/String" />
+      <file path="$PROJECT_DIR$/Tree" />
+    </sourceRoots>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+</project>
